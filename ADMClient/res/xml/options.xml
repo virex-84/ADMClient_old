@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  android:defaultValue="@xml/options" xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Пользователь"><EditTextPreference android:title="Логин" android:summary="логин пользователя" android:key="@string/pr_login" android:defaultValue="@string/pr_login"></EditTextPreference><EditTextPreference android:title="Пароль" android:summary="пароль пользователя" android:key="@string/pr_password" android:defaultValue="@string/pr_password" android:password="true"></EditTextPreference><EditTextPreference android:title="E-mail" android:summary="электронная почта" android:key="@string/pr_email" android:defaultValue="@string/pr_email"></EditTextPreference><EditTextPreference android:title="Подпись" android:summary="подпись в сообщениях" android:key="@string/pr_signature" android:defaultValue="@string/pr_signature"></EditTextPreference></PreferenceCategory>
+    <PreferenceCategory android:title="Дополнительно">
+        <Preference android:key="edit_anketa" android:title="@string/pr_edit_anketa"></Preference><Preference android:key="dbclear" android:title="@string/pr_dbclear"></Preference>
+        <CheckBoxPreference android:key="black_theme" android:title="@string/black_theme"></CheckBoxPreference>
+        
+    </PreferenceCategory>
+</PreferenceScreen>

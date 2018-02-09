@@ -1,0 +1,32 @@
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+p {
+	color: #FFFFFF;
+}
+p.floating {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 0px;
+	text-align: justify;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: blue;
+}
+.date {
+	font: Courier;
+	color: green;
+}
+pre, code {
+	font: Courier;
+	color: blue
+}
+.old{
+	background-color: black;
+}
+.new{
+	background-color: gray;
+}

@@ -1,0 +1,164 @@
+.old{
+	background-color: #F2F0F0;
+}
+.new{
+	background-color: white;
+}
+body {
+	background-color: #F2F0F0;
+}
+pre, code {
+	font: Courier;
+	color: navy;
+}
+h3 {
+	font: bold Arial;
+	text-align: center;
+	color: #8F0000;
+}
+h4 {
+	font: bold Arial;
+	color: #8F0000;
+	margin-bottom: 5px;
+}
+p.floating {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 0px;
+	text-align: justify;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #003388;
+}
+a:active { 
+	color: #6F0000;
+}
+a:hover { 
+	color: #0066FF;
+}
+.pagenum a:link, .pagenum a:visited, .pagenum a:active {
+	background-color: #FEF2ED;
+}
+.pagenum a:hover {
+	background-color: #FFFFFF;
+}
+td.news {
+	font: Verdana, Arial, Helvetica;
+}
+td.hnews	{
+	font: Verdana, Arial, Helvetica;
+	color: white;
+	text-align: center;
+}
+input {
+	font: MS Sans Serif;
+	color: #191970;
+}
+select {
+	font: MS Sans Serif;
+	color: #191970;
+}
+select.nav {
+	border: 1px solid #000080;
+	background-color: #EAF5FF;
+	color: #000080;
+}
+.ahint {
+	font: MS Sans Serif;
+	text-decoration: none;
+	color: #000080;
+}
+.hdiv { 
+	position: absolute;
+	visibility: hidden;
+	width: 140px;
+	background-color: #FFF6DD; 
+	border: 1px #936A00 solid; 
+	font: MS Sans Serif;
+	color: #000080;
+	padding: 2px;
+}
+#hint, #xhint, #admhint, #penhint {
+	position: absolute;
+	visibility: hidden;
+	width: 140px;
+}
+#hint, #xhint {
+	background-color: #FFF6DD;
+}
+#admhint, #penhint {
+	background-color: #DDDDDD;
+}
+.date {
+	font: Courier;
+	color: #007000;
+}
+.number {
+	font-weight: bold;
+	color: #6F0000;
+}
+.dsc {
+	color: #606060;
+}
+.date2 {
+	font: Courier;
+	color: #007000;
+	background-color: #00FFAA;
+}
+.private {
+	font-weight: bold;
+	color: red;
+	background-color: #FAE0E0;
+}
+.add_topic_form {
+	border: solid 1px #B0B8C0;
+	background-color: #F8EEEA;
+}
+.right_align {
+	text-align: right;
+}
+.format_btn {
+	width: 26px;
+	height: 24px;
+	font: bold Times New Roman, serif;
+}
+.italic {
+	font-style: italic;
+}
+.under {
+	text-decoration: underline;
+}
+.code {
+	font-weight: normal;
+}
+.cite {
+	margin-bottom: 8px;
+}
+.add_btn {
+	font: Verdana, sans-serif;
+	margin: 6 4 4 0;
+}
+textarea {
+	font: Verdana, sans-serif;
+}
+.os_ide {
+	color: #804040;
+	font-weight: bold;
+}
+.bcite {
+	color: #191970;
+	border: solid 1pt #BEA6E6
+}
+.acite {
+	font-weight: normal;
+	color: #888899;
+}
+.acite:hover {
+	color: #003388;
+}
+.dotcat, .dotcat a {
+	font: normal;
+    color: #D2D0FF;
+}

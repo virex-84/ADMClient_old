@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">О программе</string>
+    <string name="app_name">ADMClient</string>
+    <string name="pr_login">login(mobile)</string>
+    <string name="pr_password">password</string>
+    <string name="pr_email">e@mail.com</string>
+    <string name="pr_signature">from ADMClient</string>
+    <string name="pr_dbclear">Очистить базу</string>
+    <string name="pr_edit_anketa">Править анкету</string>
+    <string name="http_download">Загрузка с форума</string>
+    <string name="db_download">Загрузка из базы</string>
+    <string name="format_download">Формирование постов</string>
+    <string name="sr_hint">Введите строку для поиска</string>
+    <string name="black_theme">Ночная тема</string>      
+</resources>
